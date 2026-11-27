@@ -4,8 +4,6 @@ Game kartu saham digital bertema Nabung Saham. Mainkan sendiri melawan bot, bers
 
 Tujuan: setelah 6 ronde, kumpulkan **koin sebanyak mungkin** lewat beli-jual saham dan efek kartu. Pemain dengan skor akhir tertinggi menang.
 
-Cara menjalankan: buka `index.html` di browser (tanpa instal apa pun).
-
 ---
 
 ## Isi permainan
